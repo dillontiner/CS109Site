@@ -1,0 +1,90 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+#map {
+  width: 500px;
+  height: 400px;
+  background-color: #CCC;
+}
+
+.navbar-default {
+  background-color: #000000;
+  border-color: #8e44ad;
+}
+
+.navbar-nav li {
+  line-height: 50px;
+  padding-right: 10px;
+}
+
+.estimatorForm {
+  width: 150px;
+  height: 25px;
+  border: 1px dotted #999;
+  border-radius: 0;
+  line-height: 20px;
+  background-color: #FFF;
+
+  -webkit-appearance: none;
+}
+
+.row-height {
+  height: 60px;
+  text-align: center;
+}
+
+.row-border {
+  height: 20px;
+}
+
+.navList {
+  color: #FFF;
+}
+
+option {
+  color: #000;
+}
+
+.sectionTab {
+  background-color: yellow;
+  text-align: center;
+}
+
+.sectionText {
+  border-bottom: 3px solid #e4e4e4;
+  border-top: 3px solid #e4e4e4;
+}
+
+#drivers .driverInfo {
+  min-width: 140px;
+  text-align: center;
+}
+
+button {
+  padding-top: 10px;
+  height: 34px;
+  width: 250px;
+  line-height: 10px;
+  background-color: #000;
+  border-color: #FF0;
+  border-radius: 20px;
+}
+
+.surgeTitle {
+  text-align: center;
+}
+
+.surgeDisplay {
+  text-align: center;
+  height: 100px;
+  border-bottom: 3px solid #e4e4e4;
+  border-top: 3px solid #e4e4e4;
+  vertical-align: middle;
+}
+
+.surgeDisplay1 {
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+}
